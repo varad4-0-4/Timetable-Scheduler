@@ -1,4 +1,5 @@
-<h1>Timetable-Scheduler -</h1><h2>Getting Started</h2>
+<h1>Timetable-Scheduler</h1>
+<h2>Getting Started</h2>
 This guide will help you set up and use the Timetable-Scheduler.
 
 #Prerequisites: 
