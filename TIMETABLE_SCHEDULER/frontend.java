@@ -1,4 +1,4 @@
-package TIMETABLE_MANAGEMENT;
+package TIMETABLE_SCHEDULER;
 
 
 
